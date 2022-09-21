@@ -26,7 +26,7 @@ td {
        
       <th scope="col">ID</th>
       <th scope="col">First</th>
-      <th scope="col">Last</th>
+      <th scope="col">Last1</th>
       
       <th scope="col">Phone </th>
       <th scope="col">Actions </th>
